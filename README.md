@@ -24,7 +24,7 @@ For instructions on how to install Keras,
 see [the Keras installation page](https://keras.io/#installation).
 
 ```shell
-git clone https://www.github.com/keras-team/keras-contrib.git
+git clone https://github.com/yanchengxi/keras_contrib.git
 cd keras-contrib
 python setup.py install
 ```
@@ -33,6 +33,7 @@ Alternatively, using pip:
 
 ```shell
 sudo pip install git+https://www.github.com/keras-team/keras-contrib.git
+sudo pip install git+https://github.com/yanchengxi/keras_contrib.git
 ```
 
 to uninstall:
